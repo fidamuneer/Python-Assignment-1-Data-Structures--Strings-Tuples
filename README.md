@@ -9,7 +9,7 @@ This project is part of my Python fundamentals learning journey. It focuses on p
 - Practice built-in string methods.
 - Create, concatenate, repeat, and access tuple elements.
 
-##Topics Covered
+Topics Covered
 
 ### 1. String Concatenation
 - Accept a user's name as input.
