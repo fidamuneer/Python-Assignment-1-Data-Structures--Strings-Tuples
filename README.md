@@ -9,7 +9,7 @@ This project is part of my Python fundamentals learning journey. It focuses on p
 - Practice built-in string methods.
 - Create, concatenate, repeat, and access tuple elements.
 
-Topics Covered
+## Topics Covered
 
 ### 1. String Concatenation
 - Accept a user's name as input.
@@ -35,13 +35,13 @@ Topics Covered
 - Access individual elements using indexing.
 - Extract elements using tuple slicing.
 
-##Tools & Technologies
+## Tools & Technologies
 - **Programming Language:** Python
 - **Concepts:** Strings, Tuples, Indexing, Slicing, Built-in Methods
 - **Environment:** Python IDE or code editor
 
-##Key Learnings
+## Key Learnings
 Through this assignment, I practiced fundamental Python operations and improved my understanding of string manipulation and tuple handling.
 
-##File Link
+## File Link
 https://drive.google.com/file/d/1ZTHjpOMYi7TFiqFc88TdQNzqYXOnVyOQ/view?usp=drive_link
